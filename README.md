@@ -1,14 +1,14 @@
-# Predicción de Picos de Stocks con Redes Neuronales
+# Stock Peak Prediction with Neural Networks
 
-## Descripción
-Este proyecto apunta a predecir los picos de activos financieros de diferentes magnitudes usando técnicas avanzadas de aprendizaje automático, encarandolo como un problema de series temporales. Utilizamos Redes Neuronales Recurrentes y Convoluciones para analizar y predecir patrones individuales y luego uniendo todo y aplicar tecnicas de teoria de grafos para relacionarlos.
+## Description
+This project aims to predict the peaks of financial assets of different magnitudes using advanced machine learning techniques, approaching it as a time series problem. We use Recurrent Neural Networks and Convolutions to analyze and predict individual patterns, then bring everything together and apply graph theory techniques to relate them.
 
-## Características
-- **Temporalidad:** Diaria
-- **Modelado de Series Temporales:** Implementación de RNN para capturar dependencias temporales de largo plazo.
-- **Predicción de Picos:** Capacidad para identificar con precisión los picos en los activos financieros, facilitando la toma de decisiones de inversión.
+## Features
+- **Temporality:** Daily
+- **Time Series Modeling:** Implementation of RNNs to capture long-term temporal dependencies.
+- **Peak Prediction:** Ability to accurately identify peaks in financial assets, facilitating investment decision-making.
 
-## Tecnologías Utilizadas
+## Technologies Used
 - Python 3.x
 - TensorFlow/Keras
-- Pandas para el manejo de datos
+- Pandas for data handling
